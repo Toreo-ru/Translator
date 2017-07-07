@@ -1,0 +1,10 @@
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\obj\Debug\Translate.Tests.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\Translate.Tests.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\Translate.Tests.pdb
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\RestSharp.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\Translate.exe
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\Translate.pdb
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\bin\Debug\RestSharp.xml
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\obj\Debug\Translate.Tests.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate.Tests\obj\Debug\Translate.Tests.pdb

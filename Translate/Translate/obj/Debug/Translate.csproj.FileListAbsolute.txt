@@ -1,0 +1,36 @@
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\Translate.exe.config
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\Translate.exe
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\Translate.pdb
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\RestSharp.dll
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\YandexLinguistics.NET.dll
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\bin\Debug\RestSharp.xml
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.Form1.resources
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.exe
+c:\users\константин\documents\visual studio 2013\Projects\Translate\Translate\obj\Debug\Translate.pdb
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.pdb
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\RestSharp.dll
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\shers_000\Desktop\Translate\Translate\bin\Debug\RestSharp.xml
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.Form1.resources
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+C:\Users\shers_000\Desktop\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\Translate.exe.config
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.exe
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.pdb
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\Translate.exe
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\Translate.pdb
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\RestSharp.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\YandexLinguistics.NET.dll
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\bin\Debug\RestSharp.xml
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.csprojResolveAssemblyReference.cache
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.Form1.resources
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.Properties.Resources.resources
+C:\Users\Константин\Documents\Visual Studio 2013\Projects\Translate\Translate\Translate\obj\Debug\Translate.csproj.GenerateResource.Cache
